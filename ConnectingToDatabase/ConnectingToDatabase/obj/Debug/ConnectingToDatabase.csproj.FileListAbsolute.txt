@@ -1,0 +1,9 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingToDatabase\ConnectingToDatabase\bin\Debug\ConnectingToDatabase.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingToDatabase\ConnectingToDatabase\bin\Debug\ConnectingToDatabase.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingToDatabase\ConnectingToDatabase\bin\Debug\ConnectingToDatabase.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingToDatabase\ConnectingToDatabase\obj\Debug\ConnectingToDatabase.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingToDatabase\ConnectingToDatabase\obj\Debug\ConnectingToDatabase.Form1.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingToDatabase\ConnectingToDatabase\obj\Debug\ConnectingToDatabase.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingToDatabase\ConnectingToDatabase\obj\Debug\ConnectingToDatabase.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingToDatabase\ConnectingToDatabase\obj\Debug\ConnectingToDatabase.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingToDatabase\ConnectingToDatabase\obj\Debug\ConnectingToDatabase.pdb

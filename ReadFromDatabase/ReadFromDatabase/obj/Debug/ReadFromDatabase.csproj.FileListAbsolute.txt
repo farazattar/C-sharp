@@ -1,0 +1,9 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadFromDatabase\ReadFromDatabase\bin\Debug\ReadFromDatabase.exe.config
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadFromDatabase\ReadFromDatabase\bin\Debug\ReadFromDatabase.exe
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadFromDatabase\ReadFromDatabase\bin\Debug\ReadFromDatabase.pdb
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadFromDatabase\ReadFromDatabase\obj\Debug\ReadFromDatabase.csprojResolveAssemblyReference.cache
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadFromDatabase\ReadFromDatabase\obj\Debug\ReadFromDatabase.Form1.resources
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadFromDatabase\ReadFromDatabase\obj\Debug\ReadFromDatabase.Properties.Resources.resources
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadFromDatabase\ReadFromDatabase\obj\Debug\ReadFromDatabase.csproj.GenerateResource.Cache
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadFromDatabase\ReadFromDatabase\obj\Debug\ReadFromDatabase.exe
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadFromDatabase\ReadFromDatabase\obj\Debug\ReadFromDatabase.pdb

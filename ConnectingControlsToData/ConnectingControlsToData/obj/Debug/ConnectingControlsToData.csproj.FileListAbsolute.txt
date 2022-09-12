@@ -1,0 +1,9 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingControlsToData\ConnectingControlsToData\bin\Debug\ConnectingControlsToData.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingControlsToData\ConnectingControlsToData\bin\Debug\ConnectingControlsToData.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingControlsToData\ConnectingControlsToData\bin\Debug\ConnectingControlsToData.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingControlsToData\ConnectingControlsToData\obj\Debug\ConnectingControlsToData.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingControlsToData\ConnectingControlsToData\obj\Debug\ConnectingControlsToData.Form1.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingControlsToData\ConnectingControlsToData\obj\Debug\ConnectingControlsToData.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingControlsToData\ConnectingControlsToData\obj\Debug\ConnectingControlsToData.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingControlsToData\ConnectingControlsToData\obj\Debug\ConnectingControlsToData.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ConnectingControlsToData\ConnectingControlsToData\obj\Debug\ConnectingControlsToData.pdb

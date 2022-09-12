@@ -1,0 +1,9 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\UpdateDatabase\UpdateDatabase\bin\Debug\UpdateDatabase.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\UpdateDatabase\UpdateDatabase\bin\Debug\UpdateDatabase.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\UpdateDatabase\UpdateDatabase\bin\Debug\UpdateDatabase.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\UpdateDatabase\UpdateDatabase\obj\Debug\UpdateDatabase.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\UpdateDatabase\UpdateDatabase\obj\Debug\UpdateDatabase.Form1.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\UpdateDatabase\UpdateDatabase\obj\Debug\UpdateDatabase.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\UpdateDatabase\UpdateDatabase\obj\Debug\UpdateDatabase.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\UpdateDatabase\UpdateDatabase\obj\Debug\UpdateDatabase.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\UpdateDatabase\UpdateDatabase\obj\Debug\UpdateDatabase.pdb

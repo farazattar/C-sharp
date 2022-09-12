@@ -1,0 +1,9 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\WriteIntoDatabase\WriteIntoDatabase\bin\Debug\WriteIntoDatabase.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\WriteIntoDatabase\WriteIntoDatabase\bin\Debug\WriteIntoDatabase.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WriteIntoDatabase\WriteIntoDatabase\bin\Debug\WriteIntoDatabase.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\WriteIntoDatabase\WriteIntoDatabase\obj\Debug\WriteIntoDatabase.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WriteIntoDatabase\WriteIntoDatabase\obj\Debug\WriteIntoDatabase.Form1.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WriteIntoDatabase\WriteIntoDatabase\obj\Debug\WriteIntoDatabase.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WriteIntoDatabase\WriteIntoDatabase\obj\Debug\WriteIntoDatabase.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WriteIntoDatabase\WriteIntoDatabase\obj\Debug\WriteIntoDatabase.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WriteIntoDatabase\WriteIntoDatabase\obj\Debug\WriteIntoDatabase.pdb

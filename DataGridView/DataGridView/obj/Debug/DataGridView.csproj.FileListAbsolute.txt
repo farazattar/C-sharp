@@ -1,0 +1,9 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\DataGridView\DataGridView\obj\Debug\DataGridView.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\DataGridView\DataGridView\obj\Debug\DataGridView.Form1.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\DataGridView\DataGridView\obj\Debug\DataGridView.pdb

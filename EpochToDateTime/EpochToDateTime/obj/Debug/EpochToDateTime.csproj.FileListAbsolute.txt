@@ -1,0 +1,12 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\EpochToDateTime\EpochToDateTime\bin\Debug\EpochToDateTime.exe.config
+C:\Users\DCS34\documents\visual studio 2012\Projects\EpochToDateTime\EpochToDateTime\bin\Debug\EpochToDateTime.exe
+C:\Users\DCS34\documents\visual studio 2012\Projects\EpochToDateTime\EpochToDateTime\bin\Debug\EpochToDateTime.pdb
+C:\Users\DCS34\documents\visual studio 2012\Projects\EpochToDateTime\EpochToDateTime\obj\Debug\EpochToDateTime.csprojResolveAssemblyReference.cache
+C:\Users\DCS34\documents\visual studio 2012\Projects\EpochToDateTime\EpochToDateTime\obj\Debug\EpochToDateTime.exe
+C:\Users\DCS34\documents\visual studio 2012\Projects\EpochToDateTime\EpochToDateTime\obj\Debug\EpochToDateTime.pdb
+C:\Users\p\Documents\Visual Studio 2012\Projects\EpochToDateTime\EpochToDateTime\bin\Debug\EpochToDateTime.exe.config
+C:\Users\p\Documents\Visual Studio 2012\Projects\EpochToDateTime\EpochToDateTime\obj\Debug\EpochToDateTime.exe
+C:\Users\p\Documents\Visual Studio 2012\Projects\EpochToDateTime\EpochToDateTime\obj\Debug\EpochToDateTime.pdb
+C:\Users\p\Documents\Visual Studio 2012\Projects\EpochToDateTime\EpochToDateTime\bin\Debug\EpochToDateTime.exe
+C:\Users\p\Documents\Visual Studio 2012\Projects\EpochToDateTime\EpochToDateTime\bin\Debug\EpochToDateTime.pdb
+C:\Users\p\Documents\Visual Studio 2012\Projects\EpochToDateTime\EpochToDateTime\obj\Debug\EpochToDateTime.csprojResolveAssemblyReference.cache

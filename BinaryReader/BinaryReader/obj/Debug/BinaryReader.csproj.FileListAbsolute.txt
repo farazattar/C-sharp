@@ -1,0 +1,6 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\BinaryReader\BinaryReader\bin\Debug\BinaryReader.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\BinaryReader\BinaryReader\bin\Debug\BinaryReader.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\BinaryReader\BinaryReader\bin\Debug\BinaryReader.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\BinaryReader\BinaryReader\obj\Debug\BinaryReader.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\BinaryReader\BinaryReader\obj\Debug\BinaryReader.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\BinaryReader\BinaryReader\obj\Debug\BinaryReader.pdb

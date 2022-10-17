@@ -1,0 +1,6 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithClass\ReadModListWithClass\bin\Debug\ReadModListWithClass.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithClass\ReadModListWithClass\bin\Debug\ReadModListWithClass.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithClass\ReadModListWithClass\bin\Debug\ReadModListWithClass.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithClass\ReadModListWithClass\obj\Debug\ReadModListWithClass.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithClass\ReadModListWithClass\obj\Debug\ReadModListWithClass.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithClass\ReadModListWithClass\obj\Debug\ReadModListWithClass.pdb

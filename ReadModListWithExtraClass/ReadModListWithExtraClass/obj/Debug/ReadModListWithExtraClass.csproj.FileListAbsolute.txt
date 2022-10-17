@@ -1,0 +1,5 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithExtraClass\ReadModListWithExtraClass\bin\Debug\ReadModListWithExtraClass.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithExtraClass\ReadModListWithExtraClass\bin\Debug\ReadModListWithExtraClass.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithExtraClass\ReadModListWithExtraClass\bin\Debug\ReadModListWithExtraClass.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithExtraClass\ReadModListWithExtraClass\obj\Debug\ReadModListWithExtraClass.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithExtraClass\ReadModListWithExtraClass\obj\Debug\ReadModListWithExtraClass.pdb

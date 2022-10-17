@@ -1,0 +1,5 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithUsing\ReadModListWithUsing\bin\Debug\ReadModListWithUsing.exe.config
+C:\Users\DCS34\Documents\Visual Studio 2012\Projects\ReadModListWithUsing\ReadModListWithUsing\bin\Debug\ReadModListWithUsing.exe
+C:\Users\DCS34\Documents\Visual Studio 2012\Projects\ReadModListWithUsing\ReadModListWithUsing\bin\Debug\ReadModListWithUsing.pdb
+C:\Users\DCS34\Documents\Visual Studio 2012\Projects\ReadModListWithUsing\ReadModListWithUsing\obj\Debug\ReadModListWithUsing.exe
+C:\Users\DCS34\Documents\Visual Studio 2012\Projects\ReadModListWithUsing\ReadModListWithUsing\obj\Debug\ReadModListWithUsing.pdb

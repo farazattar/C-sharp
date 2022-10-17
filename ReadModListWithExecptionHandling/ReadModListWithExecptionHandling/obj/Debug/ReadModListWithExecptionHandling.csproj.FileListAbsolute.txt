@@ -1,0 +1,6 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithExecptionHandling\ReadModListWithExecptionHandling\bin\Debug\ReadModListWithExecptionHandling.exe.config
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadModListWithExecptionHandling\ReadModListWithExecptionHandling\bin\Debug\ReadModListWithExecptionHandling.exe
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadModListWithExecptionHandling\ReadModListWithExecptionHandling\bin\Debug\ReadModListWithExecptionHandling.pdb
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadModListWithExecptionHandling\ReadModListWithExecptionHandling\obj\Debug\ReadModListWithExecptionHandling.csprojResolveAssemblyReference.cache
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadModListWithExecptionHandling\ReadModListWithExecptionHandling\obj\Debug\ReadModListWithExecptionHandling.exe
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadModListWithExecptionHandling\ReadModListWithExecptionHandling\obj\Debug\ReadModListWithExecptionHandling.pdb

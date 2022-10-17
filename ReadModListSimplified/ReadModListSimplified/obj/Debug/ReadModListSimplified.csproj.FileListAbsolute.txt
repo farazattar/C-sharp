@@ -1,0 +1,6 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListSimplified\ReadModListSimplified\bin\Debug\ReadModListSimplified.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListSimplified\ReadModListSimplified\bin\Debug\ReadModListSimplified.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListSimplified\ReadModListSimplified\bin\Debug\ReadModListSimplified.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListSimplified\ReadModListSimplified\obj\Debug\ReadModListSimplified.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListSimplified\ReadModListSimplified\obj\Debug\ReadModListSimplified.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListSimplified\ReadModListSimplified\obj\Debug\ReadModListSimplified.pdb

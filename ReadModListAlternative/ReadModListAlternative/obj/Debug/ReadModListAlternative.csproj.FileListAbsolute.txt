@@ -1,0 +1,6 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListAlternative\ReadModListAlternative\bin\Debug\ReadModListAlternative.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListAlternative\ReadModListAlternative\bin\Debug\ReadModListAlternative.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListAlternative\ReadModListAlternative\bin\Debug\ReadModListAlternative.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListAlternative\ReadModListAlternative\obj\Debug\ReadModListAlternative.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListAlternative\ReadModListAlternative\obj\Debug\ReadModListAlternative.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListAlternative\ReadModListAlternative\obj\Debug\ReadModListAlternative.pdb

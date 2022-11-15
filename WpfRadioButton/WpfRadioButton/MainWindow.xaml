@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfRadioButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:viewmodel="clr-namespace:WpfRadioButton.ViewModel"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <viewmodel:ViewModel x:Key="vm"></viewmodel:ViewModel>
+    </Window.Resources>
+    <Grid>
+        <StackPanel Orientation="Vertical" DataContext="{Binding Source={StaticResource vm}}" Margin="20">
+        <RadioButton Width="150" Content="India" Command="{Binding Path=MyCommand}" Name="cbIndia" CommandParameter="{Binding ElementName=cbIndia, Path=Content}"></RadioButton>
+        <RadioButton Width="150" Content="USA" Command="{Binding Path=MyCommand}" Name="cbUSA" CommandParameter="{Binding ElementName=cbUSA, Path=Content}"></RadioButton>
+        <RadioButton Width="150" Content="UK" Command="{Binding Path=MyCommand}" Name="cbUK" CommandParameter="{Binding ElementName=cbUK, Path=Content}"></RadioButton>
+        <RadioButton Width="150" Content="China" Command="{Binding Path=MyCommand}" Name="cbChina" CommandParameter="{Binding ElementName=cbChina, Path=Content}"></RadioButton>
+        <TextBox Width="120" Margin="20" Text="{Binding Path=Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+    </StackPanel>
+    </Grid>
+</Window>

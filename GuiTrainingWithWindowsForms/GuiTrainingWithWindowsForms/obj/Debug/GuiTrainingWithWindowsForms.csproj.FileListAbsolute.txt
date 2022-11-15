@@ -1,0 +1,9 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWindowsForms\GuiTrainingWithWindowsForms\bin\Debug\GuiTrainingWithWindowsForms.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWindowsForms\GuiTrainingWithWindowsForms\bin\Debug\GuiTrainingWithWindowsForms.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWindowsForms\GuiTrainingWithWindowsForms\bin\Debug\GuiTrainingWithWindowsForms.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWindowsForms\GuiTrainingWithWindowsForms\obj\Debug\GuiTrainingWithWindowsForms.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWindowsForms\GuiTrainingWithWindowsForms\obj\Debug\GuiTrainingWithWindowsForms.Form1.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWindowsForms\GuiTrainingWithWindowsForms\obj\Debug\GuiTrainingWithWindowsForms.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWindowsForms\GuiTrainingWithWindowsForms\obj\Debug\GuiTrainingWithWindowsForms.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWindowsForms\GuiTrainingWithWindowsForms\obj\Debug\GuiTrainingWithWindowsForms.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWindowsForms\GuiTrainingWithWindowsForms\obj\Debug\GuiTrainingWithWindowsForms.pdb

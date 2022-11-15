@@ -1,0 +1,14 @@
+﻿<Window x:Class="SimplifiedWpfWithRadioButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel Orientation="Horizontal" Margin="30,10,10,260">
+            <RadioButton Width="100" Name="NUnit1" Content="Unit1" Checked="ShowOptinClicked" GroupName="Units"/>
+            <RadioButton Width="100" Name="NUnit2" Content="Unit2" Checked="ShowOptinClicked" GroupName="Units"/>
+            <RadioButton Width="100" Name="NUnit3" Content="Unit3" Checked="ShowOptinClicked" GroupName="Units"/>
+            <RadioButton Width="100" Name="NUnit4" Content="Unit4" Checked="ShowOptinClicked" GroupName="Units"/>
+            <Button Width="50" Name="NButton" Content="Go" Click="ButtonClicked"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

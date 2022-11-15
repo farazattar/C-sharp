@@ -1,0 +1,13 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWpf\GuiTrainingWithWpf\bin\Debug\GuiTrainingWithWpf.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWpf\GuiTrainingWithWpf\bin\Debug\GuiTrainingWithWpf.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWpf\GuiTrainingWithWpf\bin\Debug\GuiTrainingWithWpf.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWpf\GuiTrainingWithWpf\obj\Debug\GuiTrainingWithWpf.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWpf\GuiTrainingWithWpf\obj\Debug\MainWindow.baml
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWpf\GuiTrainingWithWpf\obj\Debug\MainWindow.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWpf\GuiTrainingWithWpf\obj\Debug\App.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWpf\GuiTrainingWithWpf\obj\Debug\GuiTrainingWithWpf_MarkupCompile.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWpf\GuiTrainingWithWpf\obj\Debug\GuiTrainingWithWpf.g.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWpf\GuiTrainingWithWpf\obj\Debug\GuiTrainingWithWpf.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWpf\GuiTrainingWithWpf\obj\Debug\GuiTrainingWithWpf.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWpf\GuiTrainingWithWpf\obj\Debug\GuiTrainingWithWpf.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\GuiTrainingWithWpf\GuiTrainingWithWpf\obj\Debug\GuiTrainingWithWpf.pdb

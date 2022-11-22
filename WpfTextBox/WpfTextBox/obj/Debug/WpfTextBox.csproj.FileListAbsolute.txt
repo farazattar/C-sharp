@@ -1,0 +1,13 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBox\WpfTextBox\bin\Debug\WpfTextBox.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBox\WpfTextBox\bin\Debug\WpfTextBox.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBox\WpfTextBox\bin\Debug\WpfTextBox.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBox\WpfTextBox\obj\Debug\WpfTextBox.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBox\WpfTextBox\obj\Debug\MainWindow.baml
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBox\WpfTextBox\obj\Debug\MainWindow.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBox\WpfTextBox\obj\Debug\App.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBox\WpfTextBox\obj\Debug\WpfTextBox_MarkupCompile.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBox\WpfTextBox\obj\Debug\WpfTextBox.g.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBox\WpfTextBox\obj\Debug\WpfTextBox.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBox\WpfTextBox\obj\Debug\WpfTextBox.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBox\WpfTextBox\obj\Debug\WpfTextBox.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBox\WpfTextBox\obj\Debug\WpfTextBox.pdb

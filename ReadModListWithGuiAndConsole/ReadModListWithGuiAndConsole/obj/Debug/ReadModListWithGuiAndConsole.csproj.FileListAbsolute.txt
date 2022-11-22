@@ -1,0 +1,13 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithGuiAndConsole\ReadModListWithGuiAndConsole\bin\Debug\ReadModListWithGuiAndConsole.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithGuiAndConsole\ReadModListWithGuiAndConsole\bin\Debug\ReadModListWithGuiAndConsole.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithGuiAndConsole\ReadModListWithGuiAndConsole\bin\Debug\ReadModListWithGuiAndConsole.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithGuiAndConsole\ReadModListWithGuiAndConsole\obj\Debug\ReadModListWithGuiAndConsole.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithGuiAndConsole\ReadModListWithGuiAndConsole\obj\Debug\MainWindow.baml
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithGuiAndConsole\ReadModListWithGuiAndConsole\obj\Debug\MainWindow.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithGuiAndConsole\ReadModListWithGuiAndConsole\obj\Debug\App.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithGuiAndConsole\ReadModListWithGuiAndConsole\obj\Debug\ReadModListWithGuiAndConsole_MarkupCompile.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithGuiAndConsole\ReadModListWithGuiAndConsole\obj\Debug\ReadModListWithGuiAndConsole.g.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithGuiAndConsole\ReadModListWithGuiAndConsole\obj\Debug\ReadModListWithGuiAndConsole.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithGuiAndConsole\ReadModListWithGuiAndConsole\obj\Debug\ReadModListWithGuiAndConsole.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithGuiAndConsole\ReadModListWithGuiAndConsole\obj\Debug\ReadModListWithGuiAndConsole.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListWithGuiAndConsole\ReadModListWithGuiAndConsole\obj\Debug\ReadModListWithGuiAndConsole.pdb

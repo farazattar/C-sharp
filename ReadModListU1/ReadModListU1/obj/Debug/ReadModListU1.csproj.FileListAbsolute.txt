@@ -1,0 +1,5 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListU1\ReadModListU1\bin\Debug\ReadModListU1.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListU1\ReadModListU1\bin\Debug\ReadModListU1.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListU1\ReadModListU1\bin\Debug\ReadModListU1.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListU1\ReadModListU1\obj\Debug\ReadModListU1.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListU1\ReadModListU1\obj\Debug\ReadModListU1.pdb

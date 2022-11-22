@@ -1,0 +1,13 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleViewClean\WpfConsoleViewClean\bin\Debug\WpfConsoleViewClean.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleViewClean\WpfConsoleViewClean\bin\Debug\WpfConsoleViewClean.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleViewClean\WpfConsoleViewClean\bin\Debug\WpfConsoleViewClean.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleViewClean\WpfConsoleViewClean\obj\Debug\WpfConsoleViewClean.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleViewClean\WpfConsoleViewClean\obj\Debug\MainWindow.baml
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleViewClean\WpfConsoleViewClean\obj\Debug\MainWindow.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleViewClean\WpfConsoleViewClean\obj\Debug\App.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleViewClean\WpfConsoleViewClean\obj\Debug\WpfConsoleViewClean_MarkupCompile.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleViewClean\WpfConsoleViewClean\obj\Debug\WpfConsoleViewClean.g.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleViewClean\WpfConsoleViewClean\obj\Debug\WpfConsoleViewClean.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleViewClean\WpfConsoleViewClean\obj\Debug\WpfConsoleViewClean.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleViewClean\WpfConsoleViewClean\obj\Debug\WpfConsoleViewClean.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleViewClean\WpfConsoleViewClean\obj\Debug\WpfConsoleViewClean.pdb

@@ -1,0 +1,13 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListGuiDesign\ReadModListGuiDesign\bin\Debug\ReadModListGuiDesign.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListGuiDesign\ReadModListGuiDesign\obj\Debug\ReadModListGuiDesign.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListGuiDesign\ReadModListGuiDesign\obj\Debug\MainWindow.baml
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListGuiDesign\ReadModListGuiDesign\obj\Debug\MainWindow.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListGuiDesign\ReadModListGuiDesign\obj\Debug\App.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListGuiDesign\ReadModListGuiDesign\obj\Debug\ReadModListGuiDesign_MarkupCompile.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListGuiDesign\ReadModListGuiDesign\obj\Debug\ReadModListGuiDesign.g.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListGuiDesign\ReadModListGuiDesign\obj\Debug\ReadModListGuiDesign.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\ReadModListGuiDesign\ReadModListGuiDesign\obj\Debug\ReadModListGuiDesign.csproj.GenerateResource.Cache
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadModListGuiDesign\ReadModListGuiDesign\bin\Debug\ReadModListGuiDesign.exe
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadModListGuiDesign\ReadModListGuiDesign\bin\Debug\ReadModListGuiDesign.pdb
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadModListGuiDesign\ReadModListGuiDesign\obj\Debug\ReadModListGuiDesign.exe
+C:\Users\DCS34\documents\visual studio 2012\Projects\ReadModListGuiDesign\ReadModListGuiDesign\obj\Debug\ReadModListGuiDesign.pdb

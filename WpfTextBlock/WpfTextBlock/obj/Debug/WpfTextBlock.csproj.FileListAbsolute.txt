@@ -1,0 +1,12 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBlock\WpfTextBlock\bin\Debug\WpfTextBlock.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBlock\WpfTextBlock\bin\Debug\WpfTextBlock.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBlock\WpfTextBlock\bin\Debug\WpfTextBlock.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBlock\WpfTextBlock\obj\Debug\MainWindow.baml
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBlock\WpfTextBlock\obj\Debug\MainWindow.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBlock\WpfTextBlock\obj\Debug\App.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBlock\WpfTextBlock\obj\Debug\WpfTextBlock_MarkupCompile.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBlock\WpfTextBlock\obj\Debug\WpfTextBlock.g.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBlock\WpfTextBlock\obj\Debug\WpfTextBlock.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBlock\WpfTextBlock\obj\Debug\WpfTextBlock.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBlock\WpfTextBlock\obj\Debug\WpfTextBlock.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfTextBlock\WpfTextBlock\obj\Debug\WpfTextBlock.pdb

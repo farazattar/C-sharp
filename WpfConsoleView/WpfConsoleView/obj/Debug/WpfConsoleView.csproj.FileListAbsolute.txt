@@ -1,0 +1,13 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleView\WpfConsoleView\bin\Debug\WpfConsoleView.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleView\WpfConsoleView\bin\Debug\WpfConsoleView.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleView\WpfConsoleView\bin\Debug\WpfConsoleView.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleView\WpfConsoleView\obj\Debug\WpfConsoleView.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleView\WpfConsoleView\obj\Debug\MainWindow.baml
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleView\WpfConsoleView\obj\Debug\MainWindow.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleView\WpfConsoleView\obj\Debug\App.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleView\WpfConsoleView\obj\Debug\WpfConsoleView_MarkupCompile.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleView\WpfConsoleView\obj\Debug\WpfConsoleView.g.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleView\WpfConsoleView\obj\Debug\WpfConsoleView.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleView\WpfConsoleView\obj\Debug\WpfConsoleView.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleView\WpfConsoleView\obj\Debug\WpfConsoleView.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfConsoleView\WpfConsoleView\obj\Debug\WpfConsoleView.pdb

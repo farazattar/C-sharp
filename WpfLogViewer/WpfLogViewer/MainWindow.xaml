@@ -1,0 +1,45 @@
+﻿<Window x:Class="WpfLogViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <WrapPanel HorizontalAlignment="Left" DockPanel.Dock="Top" Margin="30,30,0,10">
+            <Button Name="ButtonSaveOutputFile" Click="Button_Click">Write Line</Button>
+        </WrapPanel>
+        <StackPanel Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal">
+            <StackPanel.Resources>
+                <Style TargetType="TextBox">
+                    <Setter Property="VerticalAlignment" Value="Center"/>
+                    <Setter Property="Margin" Value="0,3,3,3"/>
+                    <Setter Property="IsReadOnly" Value="True"/>
+                </Style>
+                <Style TargetType="ToggleButton">
+                    <Setter Property="Margin" Value="3"/>
+                </Style>
+            </StackPanel.Resources>
+            <Label Content="Extent"/>
+            <TextBox x:Name="ExtentTextBox"/>
+            <Label Content="Viewport"/>
+            <TextBox x:Name="ViewportTextBox"/>
+            <Label Content="VerticalOffset"/>
+            <TextBox x:Name="VerticalOffsetTextBox"/>
+            <Label Content="Diff"/>
+            <TextBox Text="b" x:Name="DiffTextBox"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal">
+            <StackPanel.Resources>
+                <Style TargetType="Button">
+                    <Setter Property="Margin" Value="3"/>
+                </Style>
+                <Style TargetType="ToggleButton">
+                    <Setter Property="Margin" Value="3"/>
+                </Style>
+            </StackPanel.Resources>
+            <Button x:Name="Test1Button" Content="Test_1"/>
+            <ToggleButton x:Name="Test2Button" Content="Test_2" />
+            <ToggleButton x:Name="Test3Button" Content="Test_3" />
+            <Button x:Name="ClearButton" Content="_Clear" />
+        </StackPanel>
+    </Grid>
+</Window>

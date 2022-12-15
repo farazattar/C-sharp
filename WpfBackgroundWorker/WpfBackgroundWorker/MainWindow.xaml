@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfBackgroundWorker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="600">
+    <Grid>
+        <ProgressBar x:Name="prgWorking" HorizontalAlignment="Left" Height="20" Margin="26,35,-56,0" VerticalAlignment="Top" Width="547"/>
+        <Button x:Name="btnDoSomething" Content="Scan" Click="btnDoSomething_Click" HorizontalAlignment="Left" Margin="22,131,0,0" VerticalAlignment="Top" Width="75"/>
+     </Grid>
+</Window>

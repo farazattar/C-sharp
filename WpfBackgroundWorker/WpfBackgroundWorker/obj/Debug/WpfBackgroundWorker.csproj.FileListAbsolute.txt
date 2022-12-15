@@ -1,0 +1,13 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfBackgroundWorker\WpfBackgroundWorker\bin\Debug\WpfBackgroundWorker.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfBackgroundWorker\WpfBackgroundWorker\bin\Debug\WpfBackgroundWorker.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfBackgroundWorker\WpfBackgroundWorker\bin\Debug\WpfBackgroundWorker.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfBackgroundWorker\WpfBackgroundWorker\obj\Debug\WpfBackgroundWorker.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfBackgroundWorker\WpfBackgroundWorker\obj\Debug\MainWindow.baml
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfBackgroundWorker\WpfBackgroundWorker\obj\Debug\MainWindow.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfBackgroundWorker\WpfBackgroundWorker\obj\Debug\App.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfBackgroundWorker\WpfBackgroundWorker\obj\Debug\WpfBackgroundWorker_MarkupCompile.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfBackgroundWorker\WpfBackgroundWorker\obj\Debug\WpfBackgroundWorker.g.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfBackgroundWorker\WpfBackgroundWorker\obj\Debug\WpfBackgroundWorker.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfBackgroundWorker\WpfBackgroundWorker\obj\Debug\WpfBackgroundWorker.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfBackgroundWorker\WpfBackgroundWorker\obj\Debug\WpfBackgroundWorker.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfBackgroundWorker\WpfBackgroundWorker\obj\Debug\WpfBackgroundWorker.pdb

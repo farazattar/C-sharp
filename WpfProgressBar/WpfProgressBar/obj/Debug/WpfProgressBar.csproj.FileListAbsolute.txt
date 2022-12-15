@@ -1,0 +1,13 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBar\WpfProgressBar\bin\Debug\WpfProgressBar.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBar\WpfProgressBar\bin\Debug\WpfProgressBar.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBar\WpfProgressBar\bin\Debug\WpfProgressBar.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBar\WpfProgressBar\obj\Debug\MainWindow.baml
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBar\WpfProgressBar\obj\Debug\MainWindow.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBar\WpfProgressBar\obj\Debug\App.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar_MarkupCompile.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar.g.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar.pdb

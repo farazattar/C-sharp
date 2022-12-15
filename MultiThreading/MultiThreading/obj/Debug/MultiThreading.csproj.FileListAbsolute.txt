@@ -1,0 +1,6 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\MultiThreading\MultiThreading\bin\Debug\MultiThreading.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\MultiThreading\MultiThreading\bin\Debug\MultiThreading.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\MultiThreading\MultiThreading\bin\Debug\MultiThreading.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\MultiThreading\MultiThreading\obj\Debug\MultiThreading.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\MultiThreading\MultiThreading\obj\Debug\MultiThreading.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\MultiThreading\MultiThreading\obj\Debug\MultiThreading.pdb

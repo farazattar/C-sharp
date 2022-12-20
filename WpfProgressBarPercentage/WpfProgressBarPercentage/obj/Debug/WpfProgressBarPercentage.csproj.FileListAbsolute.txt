@@ -1,0 +1,13 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBarPercentage\WpfProgressBarPercentage\bin\Debug\WpfProgressBarPercentage.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBarPercentage\WpfProgressBarPercentage\bin\Debug\WpfProgressBarPercentage.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBarPercentage\WpfProgressBarPercentage\bin\Debug\WpfProgressBarPercentage.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBarPercentage\WpfProgressBarPercentage\obj\Debug\WpfProgressBarPercentage.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBarPercentage\WpfProgressBarPercentage\obj\Debug\MainWindow.baml
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBarPercentage\WpfProgressBarPercentage\obj\Debug\MainWindow.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBarPercentage\WpfProgressBarPercentage\obj\Debug\App.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBarPercentage\WpfProgressBarPercentage\obj\Debug\WpfProgressBarPercentage_MarkupCompile.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBarPercentage\WpfProgressBarPercentage\obj\Debug\WpfProgressBarPercentage.g.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBarPercentage\WpfProgressBarPercentage\obj\Debug\WpfProgressBarPercentage.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBarPercentage\WpfProgressBarPercentage\obj\Debug\WpfProgressBarPercentage.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBarPercentage\WpfProgressBarPercentage\obj\Debug\WpfProgressBarPercentage.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\WpfProgressBarPercentage\WpfProgressBarPercentage\obj\Debug\WpfProgressBarPercentage.pdb

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SinecToRealDateTime.exe" version="1.0.0.0" publicKeyToken="4040a2c6a750fb92" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SinecToRealDateTime" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SinecToRealDateTime.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SinecToRealDateTime.exe" size="11264">
+      <assemblyIdentity name="SinecToRealDateTime" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>M392i2Cw2bV+WTGtE+1RzaEAS5wsjjZwRVxOAQOAu/s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="SinecToRealDateTime.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SYx/jocvnO8M8E99KQzzgEyCoAcgLJtIQSjJTQMED9A=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DCS34-PC\DCS34" issuerKeyHash="e3000739e78e555bc738ab8678ac13968d9c75e0" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>5P9Ng2iKXRtr5Q1SIKNArd8ak7yhuNx72AiVoKO4GRw=</DigestValue></Reference></SignedInfo><SignatureValue>LIax0KQcl39qMHlJOtckZ7YZPZWlsnEsMeizzqaG2li42AYJL+Z1ByWMHztIsl4KGzDLbyncGi9REhIQB3O5KW0zcqw0YOta7z1FdQ1awOmNA0A1inlVClbBYPFPQI2KmEsStUiKAFIVCi1PS+mJ7U7wjnFDDbVtV//MjsAS/E4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0AgjteaDPPopgxhCr4oPEqmMHX55CUIaSm30vCHZeXI4MUziFBVfSoyg3lmAC0yo7b2qfyVTp/Bd7ijUTUOuUgdbLMHXMjiNbHtGl9IT7tIlOifXUSpNCbyFykVVN45fa/Ydx+DDC8QGEs88r2Xzte8g3H1CpYkBqryXPzr8I0s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1c19b8a3a09508d87bdcb8a1bc931adfad40a320520de56b1b5d8a68834dffe4" Description="" Url=""><as:assemblyIdentity name="SinecToRealDateTime.exe" version="1.0.0.0" publicKeyToken="4040a2c6a750fb92" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DCS34-PC\DCS34</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>i11VCVmvW8C0SR5G7fmmPjzqh1bgG5R8KXRa4Hpm8Oo=</DigestValue></Reference></SignedInfo><SignatureValue>GHA6YYcGTQ5IlQkTqm2XFuTYZ/3PNpuoQZUkm5HHsVNFXymH0R4RyGr86F+II25NpAul90so+NbMR23ZZH9eXvXkszPF6a8E2X25aQk0n5vU+YFdVtZgD2eZYsZ1RCuf4I7uiGS1rHsKC1VoX6R4qQziU/Oac0gAnFE/moaRbj8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0AgjteaDPPopgxhCr4oPEqmMHX55CUIaSm30vCHZeXI4MUziFBVfSoyg3lmAC0yo7b2qfyVTp/Bd7ijUTUOuUgdbLMHXMjiNbHtGl9IT7tIlOifXUSpNCbyFykVVN45fa/Ydx+DDC8QGEs88r2Xzte8g3H1CpYkBqryXPzr8I0s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQE6WcS3urfLdAx9plL45lqjANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwARABDAFMAMwA0AC0AUABDAFwARABDAFMAMwA0MB4XDTI0MDIwNTA4MTY0M1oXDTI1MDIwNDE0MTY0M1owJzElMCMGA1UEAx4cAEQAQwBTADMANAAtAFAAQwBcAEQAQwBTADMANDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA0AgjteaDPPopgxhCr4oPEqmMHX55CUIaSm30vCHZeXI4MUziFBVfSoyg3lmAC0yo7b2qfyVTp/Bd7ijUTUOuUgdbLMHXMjiNbHtGl9IT7tIlOifXUSpNCbyFykVVN45fa/Ydx+DDC8QGEs88r2Xzte8g3H1CpYkBqryXPzr8I0sCAwEAATANBgkqhkiG9w0BAQsFAAOBgQC9yxAxDf/bYs1fTKnTfvMhAWrIA15Iv4xbSYghebitlcElvgZP6yE8gdc6ybYL8Vq2lrs4DVlvJNVt9XdePaQy2qAMikmE7XW+r1IxKPigu8GkMYaQrXneDTdcd8pByIZgd69kQYmUbA82wx9JJMcWk1kluNu9TiFJmyptbC5z1w==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,15 @@
+﻿<Window x:Class="SinecToRealDateTime.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SINEC To Real Date and Time Converter" Height="350" Width="525">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="35,40,0,0" TextWrapping="Wrap" Text="SINEC Date (in Hex, 2 Bytes)" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="35,90,0,0" TextWrapping="Wrap" Text="SINEC Time (in Hex, 4 Bytes)" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="35,200,0,0" TextWrapping="Wrap" Text="Real Date and Time" VerticalAlignment="Top"/>
+        <TextBlock Name="ResultBlock" HorizontalAlignment="Left" Margin="200,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Foreground="#FF1D1B1B" Background="#FFDEB0C1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="150,285,0,0" TextWrapping="Wrap" Text="Version 1.0.0.0 | Created by Faraz Attar | 2024" VerticalAlignment="Top" Width="250" Foreground="Black" FontSize="10" FontWeight="Bold"/>
+        <TextBox Name="SinecDateBox" HorizontalAlignment="Left" Height="23" Margin="200,40,0,0" TextWrapping="Wrap" Text="e.g. 3340" GotFocus="SinecDateBox_GotFocus" LostFocus="SinecDateBox_LostFocus" VerticalAlignment="Top" Width="120" FontStyle="Italic" Foreground="#FF4B4949"/>
+        <TextBox Name="SinecTimeBox" HorizontalAlignment="Left" Height="23" Margin="200,90,0,0" TextWrapping="Wrap" Text="e.g. 030be07a" GotFocus="SinecTimeBox_GotFocus" LostFocus="SinecTimeBox_LostFocus" VerticalAlignment="Top" Width="120" FontStyle="Italic" Foreground="#FF4B4949"/>
+        <Button Name="ConvertButton" Content="Convert" Click="ConvertButton_Clicked" HorizontalAlignment="Left" Margin="35,150,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>

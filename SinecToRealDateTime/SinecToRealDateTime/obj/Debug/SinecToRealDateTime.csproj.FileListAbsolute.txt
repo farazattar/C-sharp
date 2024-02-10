@@ -1,0 +1,17 @@
+c:\users\dcs34\documents\visual studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\bin\Debug\SinecToRealDateTime.exe.config
+c:\users\dcs34\documents\visual studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\bin\Debug\SinecToRealDateTime.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\bin\Debug\SinecToRealDateTime.pdb
+c:\users\dcs34\documents\visual studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\obj\Debug\SinecToRealDateTime.csprojResolveAssemblyReference.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\obj\Debug\MainWindow.baml
+c:\users\dcs34\documents\visual studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\obj\Debug\MainWindow.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\obj\Debug\App.g.cs
+c:\users\dcs34\documents\visual studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\obj\Debug\SinecToRealDateTime_MarkupCompile.cache
+c:\users\dcs34\documents\visual studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\obj\Debug\SinecToRealDateTime.g.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\obj\Debug\SinecToRealDateTime.Properties.Resources.resources
+c:\users\dcs34\documents\visual studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\obj\Debug\SinecToRealDateTime.csproj.GenerateResource.Cache
+c:\users\dcs34\documents\visual studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\obj\Debug\SinecToRealDateTime.exe
+c:\users\dcs34\documents\visual studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\obj\Debug\SinecToRealDateTime.pdb
+C:\Users\DCS34\Documents\Visual Studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\bin\Debug\SinecToRealDateTime.exe.manifest
+C:\Users\DCS34\Documents\Visual Studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\bin\Debug\SinecToRealDateTime.application
+C:\Users\DCS34\Documents\Visual Studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\obj\Debug\SinecToRealDateTime.exe.manifest
+C:\Users\DCS34\Documents\Visual Studio 2012\Projects\SinecToRealDateTime\SinecToRealDateTime\obj\Debug\SinecToRealDateTime.application
